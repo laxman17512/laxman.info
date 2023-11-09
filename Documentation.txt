@@ -1,2 +1,12 @@
 icons dimentions 
 https://fontawesome.com/v4/examples/
+
+skills
+
+https://vorillaz.github.io/devicons/#/cheat
+
+font awsome on devicons for trophy
+
+hedings in main page
+
+<h2 class="mb-5"> Blog post</h2> in lines ()
