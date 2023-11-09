@@ -6,6 +6,7 @@ skills
 https://vorillaz.github.io/devicons/#/cheat
 
 font awsome on devicons for trophy
+https://fontawesome.com/v4/cheatsheet/
 
 hedings in main page
 
